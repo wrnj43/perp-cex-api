@@ -11,4 +11,4 @@ Python API for perp.fi similar to centralized exchange APIs
 7. Fetch order book, past x positions for a given market pair.
 8. Increase/decrease leverage using USDC deposit/withdraw.
 9. Get liquidation history (market overall, user address specific).
-
+10. async REST calls.
